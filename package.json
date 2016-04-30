@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-webrtc",
+  "version": "1.0.0",
+  "description": "eslint globals for WebRTC and ORTC",
+  "main": "index.js",
+  "keywords": [
+    "WebRTC",
+    "ORTC",
+    "eslintconfig"
+  ],
+  "author": "Philipp Hancke <fippo@appear.in>",
+  "license": "MIT"
+}
